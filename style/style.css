@@ -397,6 +397,10 @@ For mobile deivices
         padding: 5px 15px;
     }
 
+    .nav {
+        padding-left: -50px;
+    }
+
     .cards {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
